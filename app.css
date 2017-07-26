@@ -1,0 +1,13 @@
+.app h1,p {
+  color: orange;
+}
+.app input{
+    width:50%;
+}
+.app label{
+    color: blueviolet;
+}
+
+.active {
+  color: green;
+}
